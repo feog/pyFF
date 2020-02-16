@@ -5,4 +5,4 @@ Version 0.1 contains finite field and polynomial over finite fields arithmetic, 
 
 Version 0.2: matrices over finite fields and erasure codes are added, also out for testing.
 
-4 files with examples: FF_examples for the basic arithemtic, FFPoly_examples for polynomials, FFMat_examples for matrices and EC_examples for erasure codes.
+4 files with examples: FF_examples for the basic arithmetic, FFPoly_examples for polynomials, FFMat_examples for matrices and EC_examples for erasure codes.
